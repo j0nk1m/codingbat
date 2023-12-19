@@ -1,3 +1,2 @@
-
-#codingbat
+# codingbat
 CodingBat challenges. codingbat.com 
